@@ -1,0 +1,30 @@
+<ion-view title="Clipboard">
+	<ion-content>
+		<div class="card">
+			<div class="item">
+				<p>{{srcdata}}</p>
+			</div>
+		</div>
+
+		<div class="padding">
+			<button class="button button-block button-positive" ng-click="copys()">
+				Copy!
+			</button>
+		</div>
+
+
+		<div class="list">
+			<label class="item item-input">
+				<input type="text"
+				       ng-model=targetdata
+				       placeholder="Paste the text here">
+			</label>
+		</div>
+
+		<div class="padding">
+			<button class="button button-block button-positive" ng-click="paste()">
+				Paste!
+			</button>
+		</div>
+	</ion-content>
+</ion-view>
