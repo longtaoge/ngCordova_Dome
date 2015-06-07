@@ -13,11 +13,23 @@
                             "count": 1
                         },
                         {
+                            "xml": "<feature name=\"BarcodeScanner\"><param name=\"android-package\" value=\"com.phonegap.plugins.barcodescanner.BarcodeScanner\" /></feature>",
+                            "count": 1
+                        },
+                        {
                             "xml": "<feature name=\"AppAvailability\"><param name=\"android-package\" value=\"com.ohh2ahh.appavailability.AppAvailability\" /></feature>",
                             "count": 1
                         },
                         {
+                            "xml": "<feature name=\"Battery\"><param name=\"android-package\" value=\"org.apache.cordova.batterystatus.BatteryListener\" /></feature>",
+                            "count": 1
+                        },
+                        {
                             "xml": "<feature name=\"ActionSheet\"><param name=\"android-package\" value=\"nl.xservices.plugins.actionsheet.ActionSheet\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Calendar\"><param name=\"android-package\" value=\"nl.xservices.plugins.Calendar\" /></feature>",
                             "count": 1
                         },
                         {
@@ -29,11 +41,19 @@
                             "count": 1
                         },
                         {
+                            "xml": "<feature name=\"File\"><param name=\"android-package\" value=\"org.apache.cordova.file.FileUtils\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
+                        },
+                        {
                             "xml": "<feature name=\"Globalization\"><param name=\"android-package\" value=\"org.apache.cordova.globalization.Globalization\" /></feature>",
                             "count": 1
                         },
                         {
                             "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Capture\"><param name=\"android-package\" value=\"org.apache.cordova.mediacapture.Capture\" /></feature>",
                             "count": 1
                         },
                         {
@@ -45,15 +65,19 @@
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"BarcodeScanner\"><param name=\"android-package\" value=\"com.phonegap.plugins.barcodescanner.BarcodeScanner\" /></feature>",
+                            "xml": "<feature name=\"Clipboard\"><param name=\"android-package\" value=\"com.verso.cordova.clipboard.Clipboard\" /></feature>",
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"Battery\"><param name=\"android-package\" value=\"org.apache.cordova.batterystatus.BatteryListener\" /></feature>",
+                            "xml": "<feature name=\"Contacts\"><param name=\"android-package\" value=\"org.apache.cordova.contacts.ContactManager\" /></feature>",
                             "count": 1
                         },
                         {
-                            "xml": "<feature name=\"Calendar\"><param name=\"android-package\" value=\"nl.xservices.plugins.Calendar\" /></feature>",
+                            "xml": "<feature name=\"DatePickerPlugin\"><param name=\"android-package\" value=\"com.plugin.datepicker.DatePickerPlugin\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Accelerometer\"><param name=\"android-package\" value=\"org.apache.cordova.devicemotion.AccelListener\" /></feature>",
                             "count": 1
                         }
                     ]
@@ -94,6 +118,32 @@
                         },
                         {
                             "xml": "<uses-permission android:name=\"android.permission.WRITE_CALENDAR\" />",
+                            "count": 1
+                        }
+                    ],
+                    "/*": [
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\" />",
+                            "count": 2
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.RECORD_AUDIO\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.RECORD_VIDEO\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.READ_CONTACTS\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\" />",
                             "count": 1
                         }
                     ]
@@ -587,10 +637,19 @@
         "com.ionic.keyboard": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
+        "com.phonegap.plugins.barcodescanner": {
+            "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
+        },
         "cordova-plugin-appavailability": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
+        },
         "nl.x-services.plugins.actionsheet": {
+            "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
+        },
+        "nl.x-services.plugins.calendar": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
         "org.apache.cordova.console": {
@@ -602,10 +661,16 @@
         "org.apache.cordova.dialogs": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
+        "org.apache.cordova.file": {
+            "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
+        },
         "org.apache.cordova.globalization": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
         "org.apache.cordova.inappbrowser": {
+            "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
+        },
+        "org.apache.cordova.media-capture": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
         "org.pushandplay.cordova.apprate": {
@@ -614,13 +679,16 @@
         "uk.co.whiteoctober.cordova.appversion": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
-        "com.phonegap.plugins.barcodescanner": {
+        "com.verso.cordova.clipboard": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
-        "cordova-plugin-battery-status": {
+        "cordova-plugin-contacts": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         },
-        "nl.x-services.plugins.calendar": {
+        "cordova-plugin-datepicker": {
+            "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
+        },
+        "cordova-plugin-device-motion": {
             "PACKAGE_NAME": "com.ionicframework.ngcordova708745"
         }
     },
