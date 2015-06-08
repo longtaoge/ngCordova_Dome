@@ -3,7 +3,7 @@ angular.module('demo.preferences.ctrl', [])
     .controller('PreferencesCtrl', function ($scope, $log, $cordovaPreferences) {
         var key = 'exampleKey';
         $scope.data = {};
-        $scope.data.showMore = false;
+        $scope.data.showMore = true;
         $scope.data.key = key;
         $scope.data.value = "";
         $scope.preferencesSet = function () {
@@ -12,6 +12,7 @@ angular.module('demo.preferences.ctrl', [])
                 .then(function (result) {
                     if (result) {
                         $log.log(key + ' was succesfully set to:', $scope.data.value);
+
                         $scope.data.showMore = true;
                     } else {
                         $log.log(key + ' was not set to: ' + $scope.data.value + ' we got ', result);
