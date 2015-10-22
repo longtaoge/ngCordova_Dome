@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
+           id="com.appgiraffe.plugins.applicationPreferences"
+      version="0.1.0">
+    <name>ApplicationPreferences</name>
+    <description>Application Preferences</description>
+    <license>Copyright (c) 2013 AppGiraffe, LLC</license>
+    <keywords>phonegap,preferences</keywords>
+
+
+    <js-module src="www/applicationPreferences.js" name="applicationPreferences">
+        <clobbers target="appgiraffe.plugins.applicationPreferences" />
+    </js-module>
+
+    <!-- android -->
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="applicationPreferences">
+                <param name="android-package" value="com.appgiraffe.plugins.applicationPreferences"/>
+            </feature>
+        </config-file>
+        <source-file src="src/android/applicationPreferences.java" target-dir="src/com/appgiraffe/plugins/applicationPreferences" />      
+     </platform>          
+     
+     <!-- ios -->
+    <platform name="ios">
+        <config-file target="config.xml" parent="/*">
+		    <feature name="applicationPreferences">
+			    <param name="ios-package" value="AGApplicationPreferences"/>
+			    <param name="onload" value="true"/>
+		    </feature>
+        </config-file>
+	    <header-file src="src/ios/AGApplicationPreferences.h" />
+	    <source-file src="src/ios/AGApplicationPreferences.m" />
+    </platform>
+
+</plugin>

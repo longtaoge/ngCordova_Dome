@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f646c03f-8bb1-47ee-8faa-5d9f9ba987df" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/src/Logger.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/src/Logger.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/Resources/Overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/Resources/Overlay@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/assets/ambient.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/assets/bass.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/assets/bongo.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/controls_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/controls_bg@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/controls_bg@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/controls_bg~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/assets/highhat.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-mdpi/ic_action_discard_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-xhdpi/ic_action_discard_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-mdpi/ic_action_discard_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-xhdpi/ic_action_discard_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-mdpi/ic_action_done_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-xhdpi/ic_action_done_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-mdpi/ic_action_done_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-xhdpi/ic_action_done_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-ldpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-hdpi/image_bg.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/public/json_reader.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/public/json_reader.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/public/json_value.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/public/json_value.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/public/json_writer.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/public/json_writer.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/libToast.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/libToast.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/device/libVibration.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/simulator/libVibration.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable-hdpi/loading_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/microphone-568h@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/microphone@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/microphone@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/microphone~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/public/plugin.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/public/plugin.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/record_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/record_button@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/record_button@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/record_button~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/record_off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/record_on.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/recording_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/recording_bg@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/recording_bg@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/recording_bg~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/screenshots/screenshot-android-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/screenshots/screenshot-android-toast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/screenshots/screenshot-ios-toast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/screenshots/screenshot-ios6-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/screenshots/screenshot-ios7-ipad-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/screenshots/screenshot-ios7-share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/screenshots/screenshot-wp8-share.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/screenshots/screenshot-wp8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/screenshots/screenshots-ios7-shareconfig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/shoot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/assets/snare.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/stop_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/stop_button@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/stop_button@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/stop_button~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/src/toast_js.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/src/toast_js.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/src/toast_ndk.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/src/toast_ndk.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/device/public/tokenizer.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/simulator/public/tokenizer.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/toolbar-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/toolbar-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/toolbar-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/.cproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/.cproject" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/windows/Vibration/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.appgiraffe.plugins.applicationPreferences/src/ios/AGApplicationPreferences.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.appgiraffe.plugins.applicationPreferences/src/ios/AGApplicationPreferences.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/APACHE_LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/ios/APPEmailComposer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/ios/APPEmailComposer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotification.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/ios/APPLocalNotification.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/src/ios/APPPrinter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/src/ios/APPPrinter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/android/AccelListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/www/Acceleration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/wp/Accelerometer.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/browser/AccelerometerProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/tizen/AccelerometerProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/windows/AccelerometerProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/windows/Vibration/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/UI/AudioCaptureTask.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/android/AudioHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/wp/AudioPlayer.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/android/AudioPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/UI/AudioRecorder.xaml.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/UI/AudioRecorder.xaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/BSD_LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/ios/CDVAccelerometer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/ios/CDVAccelerometer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/src/ios/CDVClipboard.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/src/ios/CDVClipboard.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/ios/CDVCompass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/ios/CDVCompass.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/ios/CDVConnection.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/ios/CDVConnection.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/ios/CDVContact.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/ios/CDVContact.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/ios/CDVContacts.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/ios/CDVContacts.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/ios/CDVLocation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/ios/CDVLocation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/src/ios/CDVPinDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/src/ios/CDVPinDialog.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/ios/CDVReachability.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/ios/CDVReachability.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/ios/CDVSound.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/ios/CDVSound.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/src/ios/CDVSpinnerDialog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/src/ios/CDVSpinnerDialog.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/ios/CDVStatusBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/ios/CDVStatusBar.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/ios/CDVVibration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/ios/CDVVibration.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/src/android/CallbackProgressDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/Capture.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/android/Capture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/CaptureError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/windows/CaptureProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/src/wp8/Clipboard.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/src/android/Clipboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/wp/Compass.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/www/CompassError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/www/CompassHeading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/android/CompassListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/browser/CompassProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/tizen/CompassProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/windows/CompassProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/ConfigurationData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/www/Connection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ios/Contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/android/ContactAccessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/android/ContactAccessorSdk5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactActivity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactAddress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactAddress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactFieldType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactFindOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactFindOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/android/ContactInfoDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/android/ContactManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactNews.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactOrganization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ContactOrganization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/ContactPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/wp/ContactPicker.xaml.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/wp/ContactPicker.xaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/wp/ContactPickerTask.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/windows/ContactProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/windows8/ContactProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/wp/Contacts.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/wp/ContactsHelper.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/firefoxos/ContactsProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/www/Coordinates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/src/ios/DatePicker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/www/android/DatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/www/ios/DatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/www/windows/DatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/src/ios/DatePicker.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/src/ios/DatePicker.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/src/android/DatePickerPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/src/windows/DatePickerProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAlbumPickerController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAlbumPickerController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/Resources/ELCAlbumPickerController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAsset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAsset.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAssetCell.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAssetCell.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/Resources/ELCAssetPicker.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAssetPickerFilterDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAssetSelectionDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAssetTablePicker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCAssetTablePicker.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/Resources/ELCAssetTablePicker.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCImagePickerController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/ELCImagePicker/ELCImagePickerController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/wp8/EmailComposer.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/android/EmailComposer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/windows/EmailComposerProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/com/synconset/ImagePicker/FakeR.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/android/FileHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/android/FileHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/src/wp8/FileOpener2.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/src/ios/FileOpener2.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/src/android/io/github/pwlin/cordova/plugins/fileopener2/FileOpener2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/src/ios/FileOpener2.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/src/wp8/Flashlight.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/src/ios/Flashlight.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/src/android/nl/xservices/plugins/Flashlight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/www/Flashlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/src/ios/Flashlight.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/wp/GeoLocation.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/firefoxos/GeolocationProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/windows/GeolocationProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/www/blackberry10/GeolocationProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/src/ImageFetcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/com/synconset/ImagePicker/ImagePicker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/wp8/LocalNotification.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/android/LocalNotification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/de.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/en.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/es.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ios/CDVCapture.bundle/se.lproj/Localizable.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/src/Logger.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/src/Logger.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/wp/Media.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/www/Media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/www/browser/Media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/MediaCaptureWidget.qml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/www/MediaError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/windows/MediaFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/MediaFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/MediaFileData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/tizen/MediaProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/windows/MediaProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/src/MultiImageChooserActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/android/NativeAudio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/ios/NativeAudioAsset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/android/NativeAudioAsset.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/ios/NativeAudioAsset.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/android/NativeAudioAssetComplex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/windows/NetworkInfoProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/android/NetworkManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/firefoxos/NetworkProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/tizen/NetworkProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/wp/NetworkStatus.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/src/wp8/Options.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/wp8/Options.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/android/Options.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/src/android/PinDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/www/Position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/www/PositionError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/src/android/Printer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.appgiraffe.plugins.applicationPreferences/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/android/Receiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/android/ReceiverActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/src/android/Restore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/SOSPicker.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/ios/SOSPicker.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/src/wp8/Sms.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/src/ios/Sms.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/src/android/Sms.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/src/ios/Sms.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/wp8/SocialSharing.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/ios/SocialSharing.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/android/nl/xservices/plugins/SocialSharing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/www/SocialSharing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/ios/SocialSharing.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/src/windows/SocialSharingProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/src/wp/SpinnerDialog.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/src/android/SpinnerDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/wp/StatusBar.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/android/StatusBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/windows/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/ios/Toast+UIView.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/ios/Toast+UIView.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/wp8/Toast.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/ios/Toast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/android/nl/xservices/plugins/Toast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/www/Toast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/ios/Toast.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/windows/Vibration/Vibration.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/wp/Vibration.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/windows/Vibration/Vibration.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/android/Vibration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/firefoxos/VibrationProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/tizen/VibrationProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/windows/VibrationProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/UI/VideoCaptureTask.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/UI/VideoRecorder.xaml.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/wp/UI/VideoRecorder.xaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/ubuntu/accelerometer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/ubuntu/accelerometer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/browser/accelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/firefoxos/accelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/www/accelerometer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/layout/actionbar_custom_view_done_discard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/layout/actionbar_discard_button.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/layout/actionbar_done_button.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.appgiraffe.plugins.applicationPreferences/src/android/applicationPreferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.appgiraffe.plugins.applicationPreferences/www/applicationPreferences.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/autolink.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/capture.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/ubuntu/capture.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/www/capture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/www/clipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/ubuntu/compass.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/ubuntu/compass.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/browser/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/firefoxos/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/www/compass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/contactConsts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/contactUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/ubuntu/contacts.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/ubuntu/contacts.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/www/ios/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/www/email_composer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/features.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/src/windows/fileOpener2Proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/forwards.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/ubuntu/geolocation.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/src/ubuntu/geolocation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/www/geolocation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/drawable/grid_background.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/anim/image_pop_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/www/imagepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/examples/drumpad/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/json.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_batchallocator.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_internalarray.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_internalmap.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_reader.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_value.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_valueiterator.inl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json_writer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/www/local-notification.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/ubuntu/media.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/src/ubuntu/media.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values-de/multiimagechooser_strings_de.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values/multiimagechooser_strings_en.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values-es/multiimagechooser_strings_es.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values-fr/multiimagechooser_strings_fr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values-hu/multiimagechooser_strings_hu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values-ja/multiimagechooser_strings_ja.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values-ko/multiimagechooser_strings_ko.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/layout/multiselectorgrid.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/ios/nativeaudio.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/www/nativeaudio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/src/ios/nativeaudio.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/www/network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/www/browser/network.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/ubuntu/network_information.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/ubuntu/network_information.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/www/pin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/public/plugin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/plugin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/public/plugin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/plugin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.appgiraffe.plugins.applicationPreferences/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.verso.cordova.clipboard/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-datepicker/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.email-composer/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.local-notification/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.neofonie.cordova.plugin.nativeaudio/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.PinDialog/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.flashlight/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/io.github.pwlin.cordova.plugins.fileopener2/www/plugins.FileOpener2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/de.appplant.cordova.plugin.printer/www/printer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/reader.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.cordova.plugins.sms/www/sms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/hu.dpal.phonegap.plugins.SpinnerDialog/www/spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-contacts/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-motion/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-device-orientation/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-media/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.socialsharing/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/test/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.media-capture/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/com.synconset.imagepicker/src/android/Library/res/values/themes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/src/toast_js.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/src/toast_js.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/src/toast_ndk.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/src/toast_ndk.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/public/tokenizer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/tokenizer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/public/tokenizer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/tokenizer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/value.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/www/blackberry10/vibrate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/ubuntu/vibration.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/ubuntu/vibration.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/www/vibration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/src/vibration_js.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-vibration/src/blackberry10/native/src/vibration_js.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/nl.x-services.plugins.toast/src/blackberry10/native/public/json/writer.h" />
+    </list>
+    <ignored path="ngCordova.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ngCordova" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="fetch.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="8563" max-vertical-offset="9050">
+              <caret line="350" column="26" selection-start-line="350" selection-start-column="26" selection-end-line="350" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/app/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.6764705" vertical-offset="225" max-vertical-offset="6000">
+              <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+              <folding>
+                <element signature="n#style#0;n#a#4;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#17;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#25;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#28;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.64935064" vertical-offset="0" max-vertical-offset="2225">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/app/app.js" />
+        <option value="$PROJECT_DIR$/plugins/android.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/www/app/menu.html" />
+        <option value="$PROJECT_DIR$/www/app/preferences/preferences.ctrl.js" />
+        <option value="$PROJECT_DIR$/www/app/preferences/preferences.html" />
+        <option value="$PROJECT_DIR$/plugins/fetch.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ngCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ngCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ngCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ngCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ngCordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Html5Dome\ngCordova\plugins" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\longtaoge\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f646c03f-8bb1-47ee-8faa-5d9f9ba987df" name="Default" comment="" />
+      <created>1433599394782</created>
+      <option name="number" value="Default" />
+      <updated>1433599394782</updated>
+    </task>
+    <task id="LOCAL-00001" summary="添加插件">
+      <created>1433652359372</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1433652359372</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加插件 device-motion">
+      <created>1433689030608</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1433689030608</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加插件 cordova plugin add cordova-plugin-inappbrowser">
+      <created>1433695358287</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1433695358287</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加插件  network&#10;">
+      <created>1433725252643</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1433725252643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加插件 &#10;">
+      <created>1433775624531</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1433775624531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2698192" sideWeight="0.3745247" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47910863" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2698192" sideWeight="0.6254753" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="添加插件" />
+    <MESSAGE value="添加插件 device-motion" />
+    <MESSAGE value="添加插件 cordova plugin add cordova-plugin-inappbrowser" />
+    <MESSAGE value="添加插件  network&#10;" />
+    <MESSAGE value="添加插件 &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加插件 &#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8563" max-vertical-offset="9050">
+          <caret line="350" column="26" selection-start-line="350" selection-start-column="26" selection-end-line="350" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6000">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#4;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#17;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#25;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#28;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7359" max-vertical-offset="7750">
+          <caret line="304" column="1" selection-start-line="304" selection-start-column="1" selection-end-line="304" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4200" max-vertical-offset="6000">
+          <caret line="176" column="44" selection-start-line="176" selection-start-column="15" selection-end-line="176" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#a#4;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#17;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#25;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#28;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/preferences/preferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/preferences/preferences.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="410" max-vertical-offset="975">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7134" max-vertical-offset="7525">
+          <caret line="295" column="1" selection-start-line="295" selection-start-column="1" selection-end-line="295" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3975" max-vertical-offset="6000">
+          <caret line="170" column="27" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#a#4;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#17;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#25;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#28;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/preferences/preferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1100">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/preferences/preferences.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="950">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5684" max-vertical-offset="6050">
+          <caret line="236" column="1" selection-start-line="236" selection-start-column="1" selection-end-line="236" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6000">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#4;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#17;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#25;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#28;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="328" max-vertical-offset="750">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="1175">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="994" max-vertical-offset="1450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1869" max-vertical-offset="2475">
+          <caret line="92" column="5" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/uk.co.whiteoctober.cordova.appversion/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="775">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2850" max-vertical-offset="11275">
+          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="775">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2850" max-vertical-offset="11275">
+          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6772009" vertical-offset="2850" max-vertical-offset="11275">
+          <caret line="126" column="12" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="775">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/platforms.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/uk.co.whiteoctober.cordova.appversion/README.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1425">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/uk.co.whiteoctober.cordova.appversion/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56109726" vertical-offset="300" max-vertical-offset="2125">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.485" vertical-offset="994" max-vertical-offset="1450">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.8914728" vertical-offset="732" max-vertical-offset="1175">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3852459" vertical-offset="309" max-vertical-offset="750">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/org.apache.cordova.file/doc/de/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/org.apache.cordova.file/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.9375" vertical-offset="2775" max-vertical-offset="8775">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/pushNotifications/pushNotifications.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25201613" vertical-offset="0" max-vertical-offset="496">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/preferences/preferences.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5342742" vertical-offset="410" max-vertical-offset="975">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/preferences/preferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16233766" vertical-offset="0" max-vertical-offset="462">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/pushNotifications/pushNotifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="496">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/com.cordova.plugins.sms/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4000">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/com.cordova.plugins.sms/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.46583852" vertical-offset="225" max-vertical-offset="1575">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/fetch.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8563" max-vertical-offset="9050">
+          <caret line="350" column="26" selection-start-line="350" selection-start-column="26" selection-end-line="350" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705" vertical-offset="225" max-vertical-offset="6000">
+          <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#a#4;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#17;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#25;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#28;n#div#0;n#ion-content#0;n#ion-view#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64935064" vertical-offset="0" max-vertical-offset="2225">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
