@@ -1,0 +1,13 @@
+<ion-view title="Barcode">
+
+  <ion-content scroll="false" padding="true">
+    <button ng-click="scan()" class="button button-block button-positive">Scan</button>
+      <button ng-click="encode()" class="button button-block button-positive">encode</button>
+    <div class="card">
+      <div class="item item-divider">Barcode Results</div>
+      <div class="item">Text: {{scanResult.text}}</div>
+      <div class="item">Format: {{scanResult.format}}</div>
+      <div class="item">Cancelled: {{scanResult.cancelled}}</div>
+    </div>
+  </ion-content>
+</ion-view>
